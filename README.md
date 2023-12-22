@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=victoria-agunbiade&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=agunbiade-victoria&style=flat-square&color=blue" alt=""/>
 
 <h1>
   Hello there :
@@ -40,11 +40,11 @@ Looking forward to collaborate with passionate teams and making a positive impac
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victoria-agunbiade&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=agunbiade-victoria&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoria-agunbiade&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agunbiade-victoria&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-**victoria-agunbiade/victoria-agunbiade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**agunbiade-victoria/agunbiade-victoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
