@@ -1,5 +1,5 @@
 
-![photo 3](https://github.com/victoria-agunbiade/victoria-agunbiade/assets/88579529/e95cb6cb-5095-402b-af56-fd1728319a7b)
+![photo 2](https://github.com/agunbiade-victoria/agunbiade-victoria/assets/154474649/9ca4b55a-c7ab-4904-b159-038af3b2ab73)
 <div id="header" align="center">
   </div>
 <div id="badges">
